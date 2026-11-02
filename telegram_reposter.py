@@ -6,8 +6,8 @@ api_id = 22555299  # Замените на ваш API_ID
 api_hash = '2b9579c4a6819b874fd1d07dba63378b'  # Замените на ваш API_HASH
 
 # Юзернеймы или ID каналов (например, '@source_channel' или -100xxxxxxxxxx)
-SOURCE_CHANNEL = '@https://t.me/uijUDuC1pA44ZDQy'
-TARGET_CHANNEL = '@https://t.me/hvoykin'
+SOURCE_CHANNEL = '@uijUDuC1pA44ZDQy'
+TARGET_CHANNEL = '@hvoykin'
 
 client = TelegramClient('reposter_session', api_id, api_hash)
 
