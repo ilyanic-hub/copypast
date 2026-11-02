@@ -2,12 +2,12 @@ import asyncio
 from telethon import TelegramClient, events
 
 # Ваши данные от My.Telegram.org
-api_id = 1234567  # Замените на ваш API_ID
-api_hash = 'your_api_hash'  # Замените на ваш API_HASH
+api_id = 22555299  # Замените на ваш API_ID
+api_hash = '2b9579c4a6819b874fd1d07dba63378b'  # Замените на ваш API_HASH
 
 # Юзернеймы или ID каналов (например, '@source_channel' или -100xxxxxxxxxx)
-SOURCE_CHANNEL = '@source_channel_username'
-TARGET_CHANNEL = '@target_channel_username'
+SOURCE_CHANNEL = '@https://t.me/uijUDuC1pA44ZDQy'
+TARGET_CHANNEL = '@https://t.me/hvoykin'
 
 client = TelegramClient('reposter_session', api_id, api_hash)
 
